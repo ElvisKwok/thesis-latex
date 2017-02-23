@@ -1,0 +1,23 @@
+\ttl@change@i {\@ne }{chapter}{2em}{\vspace {.0\baselineskip }\sihao \song }{\prechaptername ~\thecontentslabel ~\postchaptername \quad }{}{\!\titlerule *[5pt]{$\cdot $}\!\!\!\!\sihao \contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{3em}{\vspace {-0.1\baselineskip }\xiaosi \song }{\thecontentslabel \quad }{}{\!\titlerule *[5pt]{$\cdot $}\!\!\!\!\xiaosi \contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{4em}{\vspace {-0.2\baselineskip }\wuhao \song }{\thecontentslabel \quad }{}{\!\titlerule *[5pt]{$\cdot $}\!\!\!\!\wuhao \contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\contentsline {chapter}{\numberline {1}引言}{1}{section*.4}
+\contentsline {section}{\numberline {1.1}使用方法}{1}{section*.5}
+\contentsline {section}{\numberline {1.2}使用建议}{1}{section*.6}
+\contentsline {subsection}{\numberline {1.2.1}普适问题}{1}{section*.7}
+\contentsline {subsection}{\numberline {1.2.2}细节问题}{1}{section*.8}
+\contentsline {subsection}{\numberline {1.2.3}其他说明}{2}{section*.9}
+\contentsline {section}{\numberline {1.3}例子}{2}{section*.10}
+\contentsline {chapter}{\numberline {2}相关研究}{4}{section*.13}
+\contentsline {section}{\numberline {2.1}第一节}{4}{section*.14}
+\contentsline {subsection}{\numberline {2.1.1}第一节的第一小节}{4}{section*.15}
+\contentsline {subsection}{\numberline {2.1.2}第一节的第二小节}{4}{section*.16}
+\contentsline {section}{\numberline {2.2}第二节}{4}{section*.17}
+\contentsline {subsection}{\numberline {2.2.1}第二节的第一小节}{4}{section*.18}
+\contentsline {chapter}{参考文献}{5}{section*.20}
+\contentsline {chapter}{攻读硕士学位期间发表学术论文情况}{6}{section*.22}
+\contentsline {chapter}{致\hskip 1em\relax 谢}{7}{section*.24}
+\contentsfinish 

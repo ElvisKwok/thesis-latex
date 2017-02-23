@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.2.23)  23 FEB 2017 14:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.2.23)  23 FEB 2017 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1979,7 +1979,7 @@ appendix/acknowledgements.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B18DAC3DE84B7A285E674357CB043F21;1694.
+(rerunfilecheck)             Checksum: E952B3760C65DD1CBF49B539C6367BEE;1710.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1992,11 +1992,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
 ### simple group (level 1) entered at line 1061 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 29081 strings out of 493014
- 470285 string characters out of 6131952
- 509127 words of memory out of 5000000
- 31553 multiletter control sequences out of 15000+600000
- 136870 words of font info for 418 fonts, out of 8000000 for 9000
+ 29085 strings out of 493014
+ 470356 string characters out of 6131952
+ 509170 words of memory out of 5000000
+ 31555 multiletter control sequences out of 15000+600000
+ 137410 words of font info for 420 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,52p,10513b,10770s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/W
@@ -2044,7 +2044,7 @@ st/fonts/type1/public/txfonts/txsy.pfb><e:/other_soft/texlive/2016/texmf-dist/f
 onts/type1/urw/times/utmb8a.pfb><e:/other_soft/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb><e:/other_soft/texlive/2016/texmf-dist/fonts/type1/urw
 /times/utmri8a.pfb>
-Output written on main.pdf (12 pages, 1210481 bytes).
+Output written on main.pdf (12 pages, 1210524 bytes).
 PDF statistics:
  733 PDF objects out of 1000 (max. 8388607)
  507 compressed objects within 6 object streams
